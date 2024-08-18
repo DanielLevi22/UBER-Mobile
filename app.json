@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "uber",
+    "name": "Uber",
     "slug": "uber",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/icons/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
