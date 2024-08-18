@@ -4,7 +4,7 @@
     "slug": "uber",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icons/icon.png",
+    "icon": "./assets/icons/to.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
