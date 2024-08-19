@@ -58,7 +58,7 @@ export default function Onboarding() {
             ? router.replace("/(auth)/sign-up")
             : swiperRef.current?.scrollBy(1)
         }
-        className="w-11/12 mt-10 mb-5 items-center bg-[#0286FF] rounded-full py-3"
+        className="w-11/12 mt-10 mb-5 "
       />
     </SafeAreaView>
   );
